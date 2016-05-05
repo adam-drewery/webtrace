@@ -3,3 +3,8 @@
 ################################################################################
 
 /packages
+/.vs/WebTrace/v14
+/WebTrace.sln.DotSettings.user
+/TestApplication/bin/Debug
+/TestApplication/obj/Debug
+/WebTrace/node_modules
